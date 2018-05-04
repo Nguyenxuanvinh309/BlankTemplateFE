@@ -1,0 +1,2 @@
+# BlankTemplateFE
+Template FE Basic
